@@ -1,0 +1,14 @@
+Eclipse should have M2E plug in
+Eclipse should have TestNG plug in
+First run as maven install - which will install all dependencies updated in pom.xml file
+update maven project
+Open  folder  src
+Open Test
+Open java
+open testcases
+
+Right click on DiscoveryVideoValidation.java - select run as TestNG test
+
+Refresh project
+Report will generate under test-output folder
+Right click emailable-report.html  and open with web Browser
